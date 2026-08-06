@@ -87,6 +87,6 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 
 If you have any questions, feedback, or concerns regarding this Privacy Policy or your data, please contact us at:
 
-* **Developer:** PPL Project Team
-* **Email:** support@pplproject.dev
-* **Website:** https://github.com/
+* **Developer:** Painlog
+* **Email:** drbatstore@gmail.com
+* **Website:** https://github.com/painlog/ppl-privacy-policy
